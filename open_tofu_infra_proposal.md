@@ -1,6 +1,8 @@
 **Proposal: Standardized OpenTofu Infrastructure Automation Framework**
 
 **Prepared By:** Vinay Kumar
+
+
 **Purpose:** To define a unified and scalable structure for managing multi-client infrastructure using OpenTofu and GitHub Actions without dependency on Digger.
 
 ---
